@@ -1,0 +1,10 @@
+# ItemGetOut Configuration
+# This file stores the list of blacklisted items
+
+# List of blacklisted items (Material names)
+# Items in this list will be automatically destroyed when players try to pick them up
+blacklisted-items:
+  # Example items (uncomment to add them to blacklist)
+  # - DIAMOND_SWORD
+  # - GOLDEN_APPLE
+  # - ENDER_PEARL 

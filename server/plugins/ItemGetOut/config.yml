@@ -1,0 +1,13 @@
+# ItemGetOut Configuration
+# This file stores the list of blacklisted items
+
+blacklisted-items:
+  9b7f1c0a-a884-43d7-87d5-227f31ed7dd5: []
+  ed10f5a1-11b2-3f08-b993-d733ae1ac507:
+  - COBBLESTONE
+  ddd9abdd-48f5-33f0-b0f8-860f0528f579:
+  - COBBLESTONE
+# Example items (uncomment to add them to blacklist)
+# - DIAMOND_SWORD
+# - GOLDEN_APPLE
+# - ENDER_PEARL 
