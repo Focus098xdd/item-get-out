@@ -1,0 +1,4 @@
+name: itemgetout
+main: net.xstudio.itemgetout.Plugin
+version: LTS
+api-version: 1.15
